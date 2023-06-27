@@ -11,6 +11,10 @@ body {
   ) !important;
 }
 
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
 .react-calendar {
   width: 100%;
   border: none;
